@@ -1,0 +1,11 @@
+package cjdayum.mod.client;
+
+import cjdayum.mod.common.modCommonProxy;
+import net.minecraftforge.client.MinecraftForgeClient;
+
+public class modClientProxy extends modCommonProxy {
+
+public void registerRenderInformation(){
+}
+
+}
